@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GitIgnore/.vs/GitIgnore
+/GitIgnore/GitIgnore/bin/Debug/net6.0
+/GitIgnore/GitIgnore/obj
